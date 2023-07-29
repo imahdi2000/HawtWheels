@@ -4,8 +4,11 @@ HawtWheels Devlog
 7/29/23 (Fri 11:55 AM) --------------------------------------------------------
 
 - Set up virtualenv and Wheels folder
-- Got repo up and cloned sucessfully  d
-
+- Got repo up and cloned sucessfully, setup token, and sucessful push
+- Setting up flask, got Hello World lol, commands to remember:
+  - export FLASK_APP="file.py"
+  - flask run
+  - export FLASK_DEBUG=1
 
 7/28/23 (Thurs)----------------------------------------------------------------
 - Took a look at Angstrom and will be using that as a base for HawtWheels
