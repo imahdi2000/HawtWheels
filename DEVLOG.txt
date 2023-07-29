@@ -1,0 +1,16 @@
+HawtWheels Devlog
+
+
+7/29/23 (Fri 11:55 AM) --------------------------------------------------------
+
+- Set up virtualenv and Wheels folder
+- Got repo up and cloned sucessfully  d
+
+
+7/28/23 (Thurs)----------------------------------------------------------------
+- Took a look at Angstrom and will be using that as a base for HawtWheels
+- Learned about difference between virtualenv and venv, we'll use virtualenv
+- MVP is to get a website up and running with FLASK ASAP
+- Task for next time:
+  -Set up Git Repo, recall git clone, push, pull
+  -Set up basic FLASK page
